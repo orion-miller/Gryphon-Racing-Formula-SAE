@@ -1,7 +1,7 @@
 # About
 The chance to be a member of the Gryphon Racing Formula SAE team was the highlight of my time at the University of Guelph. The role helped me to appreciate the complexity of real-world systems, the necessity to make data driven decisions while remembering the limitations of my knowledge and methods, and the need for validation of results and continual reassessment. The race team was a way to gain practical experience across many stages of the engineering process, such as systems analysis, mechanical design, CAD, structural analysis and FEA, and manufacturing.
 
-![Poster](/Images/2019-07-08-formula-sae-projects/thumbnail.jpg)
+![0](Images/thumbnail.jpg)
 
 ---
 
@@ -27,28 +27,28 @@ The chance to be a member of the Gryphon Racing Formula SAE team was the highlig
 ## Design & Manufacturing Work - Examples
 ---
 
-![1](/Images/2019-07-08-formula-sae-projects/Suspension_Setup.png)
+![1](Images/Suspension_Setup.png)
 *2019 Suspension Setup*
 
-![1](/Images/2019-07-08-formula-sae-projects/Bellcranks.png)
+![1](Images/Bellcranks.png)
 *Bellcranks*
 
-![1](/Images/2019-07-08-formula-sae-projects/Front_Hub.png)
+![1](Images/Front_Hub.png)
 *Front Hubs*
 
-![1](/Images/2019-07-08-formula-sae-projects/Wheel_Mold.png)
+![1](Images/Wheel_Mold.png)
 *Carbon Fiber Rim Mold*
 
-![1](/Images/2019-07-08-formula-sae-projects/IMG_0677.JPG)
+![1](Images/IMG_0677.JPG)
 *Carbon Fiber Rim*
 
-![1](/Images/2019-07-08-formula-sae-projects/ARBs_2.png)
+![1](Images/ARBs_2.png)
 *Anti-Roll bars*
 
-![1](/Images/2019-07-08-formula-sae-projects/Steering_Rack.png)
+![1](Images/Steering_Rack.png)
 *Custom Steering Rack*
 
-![1](/Images/2019-07-08-formula-sae-projects/IMG_20180920_083341.jpg)
+![1](Images/IMG_20180920_083341.jpg)
 *Steering Column*
 
 
